@@ -1,0 +1,117 @@
+about:
+  description: "🌦️ Minimal neofetch-like weather CLI"
+  license: MIT
+  homepage: 
+  head: 31ca579
+  archived: false
+  latestVersion: "v0.5.2"
+  latestRelease: "v0.5.2"
+  latestPrerelease: ""
+  collectedAt: 2026-09-09T05:44:05Z
+timeline:
+  created: 2025-08-25
+  lastCommit: 2026-08-12
+  lastVersion: 2026-06-19
+  lastRelease: 2026-06-19
+  lastPrerelease: 
+popularity:
+  star: 87
+  watcher: 3
+  fork: 4
+  release: 22
+  contributor: 4
+  pullRequest: 44
+  issue: 6
+language:
+  Rust: 256053
+  Just: 542
+  Shell: 148
+totalBytes: 256743
+recent:
+  last30d:
+    since: 2026-08-10
+    release: 0
+    mergedPR: 1
+    openPR: 1
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+  last60d:
+    since: 2026-07-11
+    release: 0
+    mergedPR: 12
+    openPR: 1
+    closedIssue: 0
+    openIssue: 0
+    commit: 12
+  last90d:
+    since: 2026-06-11
+    release: 1
+    mergedPR: 13
+    openPR: 1
+    closedIssue: 1
+    openIssue: 0
+    commit: 15
+  last180d:
+    since: 2026-03-13
+    release: 5
+    mergedPR: 30
+    openPR: 1
+    closedIssue: 1
+    openIssue: 1
+    commit: 70
+  last360d:
+    since: 2025-09-14
+    release: 7
+    mergedPR: 35
+    openPR: 1
+    closedIssue: 1
+    openIssue: 3
+    commit: 78
+  last720d:
+    since: 2024-09-19
+    release: 22
+    mergedPR: 38
+    openPR: 1
+    closedIssue: 3
+    openIssue: 3
+    commit: 176
+total:
+  release: 22
+  mergedPR: 38
+  openPR: 1
+  closedIssue: 3
+  openIssue: 3
+  commit: 176
+---
+path: /home/runner/.x-repo/github.com/Tairesh/rustormy
+collectedAt: 2026-09-09T05:44:06Z
+loc:
+  Rust:
+    code: 7154
+    comments: 104
+    blanks: 702
+    files: 34
+  Json:
+    code: 3161
+    comments: 0
+    blanks: 0
+    files: 5
+  Toml:
+    code: 26
+    comments: 0
+    blanks: 2
+    files: 1
+  Markdown:
+    code: 0
+    comments: 453
+    blanks: 205
+    files: 2
+total:
+  code: 10376
+  comments: 689
+  blanks: 910
+  files: 42
+---
+
+---

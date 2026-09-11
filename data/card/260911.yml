@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.5.2"
   latestRelease: "v0.5.2"
   latestPrerelease: ""
-  collectedAt: 2026-09-11T05:49:00Z
+  collectedAt: 2026-09-11T19:07:04Z
 timeline:
   created: 2025-08-25
   lastCommit: 2026-09-09
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2026-06-19
   lastPrerelease: 
 popularity:
-  star: 87
+  star: 88
   watcher: 3
   fork: 4
   release: 22
@@ -85,7 +85,7 @@ total:
   commit: 178
 ---
 path: /home/runner/.x-repo/github.com/Tairesh/rustormy
-collectedAt: 2026-09-11T05:49:01Z
+collectedAt: 2026-09-11T19:07:04Z
 loc:
   Rust:
     code: 7154

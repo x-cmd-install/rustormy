@@ -4,7 +4,7 @@
 
 🌦️ Minimal neofetch-like weather CLI
 
-![rustormy](https://repo.x-cmd.io/rustormy.svg)
+[![x-cmd/install — rustormy Code Quality Monitoring Repo Card](https://repo.x-cmd.io/rustormy.svg)](https://x-cmd.com/install/rustormy)
 
 ## Install
 
@@ -31,7 +31,7 @@ Total: **10,341** lines of code across **42** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.5.2` (2026-06-19)
-- **Last commit**: 2026-09-09
+- **Last commit**: 2026-09-18
 - **Assets in release**: 3
 
 ## Popularity
@@ -40,18 +40,18 @@ Total: **10,341** lines of code across **42** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 22 · **Merged PRs**: 39 · **Open PRs**: 2 · **Closed issues**: 5 · **Open issues**: 1 · **Commits**: 178
+- **Releases**: 22 · **Merged PRs**: 42 · **Open PRs**: 0 · **Closed issues**: 5 · **Open issues**: 1 · **Commits**: 184
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 1 | 2 | 0 | 0 | 1 |
-| last60d | 2026-07-20 | 0 | 8 | 2 | 0 | 0 | 7 |
-| 90d | 2026-06-20 | 0 | 14 | 2 | 0 | 0 | 14 |
-| last180d | 2026-03-22 | 5 | 31 | 2 | 1 | 1 | 71 |
-| 360d | 2025-09-23 | 6 | 36 | 2 | 3 | 1 | 79 |
-| last720d | 2024-09-28 | 22 | 39 | 2 | 5 | 1 | 178 |
+| 30d | 2026-08-21 | 0 | 4 | 0 | 0 | 0 | 4 |
+| last60d | 2026-07-22 | 0 | 9 | 0 | 0 | 0 | 9 |
+| 90d | 2026-06-22 | 0 | 16 | 0 | 0 | 0 | 16 |
+| last180d | 2026-03-24 | 5 | 34 | 0 | 1 | 1 | 74 |
+| 360d | 2025-09-25 | 6 | 39 | 0 | 3 | 1 | 82 |
+| last720d | 2024-09-30 | 22 | 42 | 0 | 5 | 1 | 184 |
 
 ## Release assets
 
@@ -70,4 +70,4 @@ Install metadata for rustormy lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T06:03:53Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T05:56:47Z._

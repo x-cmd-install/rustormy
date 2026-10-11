@@ -36,7 +36,7 @@ Total: **10,341** lines of code across **42** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 90 · **Forks**: 4 · **Open issues**: 6 · **Contributors**: 4
+- **Stars**: 91 · **Forks**: 4 · **Open issues**: 6 · **Contributors**: 4
 
 ## Totals (cumulative)
 
@@ -46,12 +46,12 @@ Total: **10,341** lines of code across **42** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-10 | 0 | 5 | 0 | 0 | 0 | 5 |
-| last60d | 2026-08-11 | 0 | 6 | 0 | 0 | 0 | 6 |
-| 90d | 2026-07-12 | 0 | 18 | 0 | 0 | 0 | 18 |
-| last180d | 2026-04-13 | 3 | 30 | 0 | 1 | 1 | 44 |
-| 360d | 2025-10-15 | 6 | 40 | 0 | 3 | 1 | 83 |
-| last720d | 2024-10-20 | 22 | 44 | 0 | 5 | 1 | 188 |
+| 30d | 2026-09-11 | 0 | 5 | 0 | 0 | 0 | 3 |
+| last60d | 2026-08-12 | 0 | 6 | 0 | 0 | 0 | 6 |
+| 90d | 2026-07-13 | 0 | 18 | 0 | 0 | 0 | 16 |
+| last180d | 2026-04-14 | 3 | 30 | 0 | 1 | 1 | 44 |
+| 360d | 2025-10-16 | 6 | 40 | 0 | 3 | 1 | 83 |
+| last720d | 2024-10-21 | 22 | 44 | 0 | 5 | 1 | 188 |
 
 ## Release assets
 
@@ -70,4 +70,4 @@ Install metadata for rustormy lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261010.yml` · 2026-10-10T06:46:24Z._
+_Snapshot: `data/card/261011.yml` · 2026-10-11T06:37:42Z._

@@ -40,18 +40,18 @@ Total: **10,341** lines of code across **42** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 22 · **Merged PRs**: 44 · **Open PRs**: 0 · **Closed issues**: 5 · **Open issues**: 1 · **Commits**: 188
+- **Releases**: 22 · **Merged PRs**: 44 · **Open PRs**: 1 · **Closed issues**: 5 · **Open issues**: 1 · **Commits**: 188
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-12 | 0 | 5 | 0 | 0 | 0 | 3 |
-| last60d | 2026-08-13 | 0 | 6 | 0 | 0 | 0 | 6 |
-| 90d | 2026-07-14 | 0 | 18 | 0 | 0 | 0 | 16 |
-| last180d | 2026-04-15 | 3 | 30 | 0 | 1 | 1 | 44 |
-| 360d | 2025-10-17 | 6 | 40 | 0 | 3 | 1 | 83 |
-| last720d | 2024-10-22 | 22 | 44 | 0 | 5 | 1 | 188 |
+| 30d | 2026-09-13 | 0 | 5 | 1 | 0 | 0 | 3 |
+| last60d | 2026-08-14 | 0 | 6 | 1 | 0 | 0 | 6 |
+| 90d | 2026-07-15 | 0 | 17 | 1 | 0 | 0 | 16 |
+| last180d | 2026-04-16 | 3 | 30 | 1 | 1 | 1 | 44 |
+| 360d | 2025-10-18 | 6 | 40 | 1 | 3 | 1 | 83 |
+| last720d | 2024-10-23 | 22 | 44 | 1 | 5 | 1 | 188 |
 
 ## Release assets
 
@@ -70,4 +70,4 @@ Install metadata for rustormy lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261012.yml` · 2026-10-12T06:56:13Z._
+_Snapshot: `data/card/261013.yml` · 2026-10-13T07:48:14Z._

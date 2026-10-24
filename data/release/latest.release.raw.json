@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 3875470,
       "digest": "sha256:646aab8649036a1bd253292f8a19e9c7ae3d3528b6ea13d1a91b4b7d2c847d9c",
-      "download_count": 100,
+      "download_count": 101,
       "created_at": "2026-06-19T07:26:50Z",
       "updated_at": "2026-06-19T07:26:51Z",
       "browser_download_url": "https://github.com/Tairesh/rustormy/releases/download/v0.5.2/rustormy-v0.5.2-Linux.tar.gz"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 3614153,
       "digest": "sha256:6d6c3e23ee5c848668eb976c2dbfa7e2f99a818cfe2cbc18f6ea20c98488f6af",
-      "download_count": 4,
+      "download_count": 5,
       "created_at": "2026-06-19T07:27:48Z",
       "updated_at": "2026-06-19T07:27:49Z",
       "browser_download_url": "https://github.com/Tairesh/rustormy/releases/download/v0.5.2/rustormy-v0.5.2-macOS.tar.gz"

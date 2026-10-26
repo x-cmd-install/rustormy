@@ -14,14 +14,14 @@ x install rustormy
 
 ## Code insight
 
-Total: **10,341** lines of code across **42** files in the top 5 languages.
+Total: **10,641** lines of code across **42** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 7,154 | 104 | 702 | 34 |
+| Rust | 7,454 | 107 | 728 | 34 |
 | Json | 3,161 | 0 | 0 | 5 |
 | Toml | 26 | 0 | 2 | 1 |
-| Markdown | 0 | 453 | 205 | 2 |
+| Markdown | 0 | 465 | 213 | 2 |
 
 ## Source
 
@@ -30,36 +30,36 @@ Total: **10,341** lines of code across **42** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v0.5.2` (2026-06-19)
-- **Last commit**: 2026-10-22
+- **Latest**: `v0.5.3` (2026-10-25)
+- **Last commit**: 2026-10-25
 - **Assets in release**: 3
 
 ## Popularity
 
-- **Stars**: 91 · **Forks**: 4 · **Open issues**: 6 · **Contributors**: 4
+- **Stars**: 91 · **Forks**: 4 · **Open issues**: 7 · **Contributors**: 5
 
 ## Totals (cumulative)
 
-- **Releases**: 22 · **Merged PRs**: 47 · **Open PRs**: 0 · **Closed issues**: 5 · **Open issues**: 1 · **Commits**: 194
+- **Releases**: 23 · **Merged PRs**: 47 · **Open PRs**: 0 · **Closed issues**: 5 · **Open issues**: 2 · **Commits**: 201
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-25 | 0 | 5 | 0 | 0 | 0 | 3 |
-| last60d | 2026-08-26 | 0 | 9 | 0 | 0 | 0 | 9 |
-| 90d | 2026-07-27 | 0 | 14 | 0 | 0 | 0 | 13 |
-| last180d | 2026-04-28 | 3 | 29 | 0 | 1 | 1 | 42 |
-| 360d | 2025-10-30 | 6 | 42 | 0 | 3 | 1 | 85 |
-| last720d | 2024-11-04 | 22 | 47 | 0 | 5 | 1 | 194 |
+| 30d | 2026-09-26 | 1 | 5 | 0 | 0 | 1 | 10 |
+| last60d | 2026-08-27 | 1 | 9 | 0 | 0 | 1 | 16 |
+| 90d | 2026-07-28 | 1 | 14 | 0 | 0 | 1 | 20 |
+| last180d | 2026-04-29 | 4 | 29 | 0 | 1 | 2 | 49 |
+| 360d | 2025-10-31 | 7 | 42 | 0 | 3 | 2 | 92 |
+| last720d | 2024-11-05 | 23 | 47 | 0 | 5 | 2 | 201 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [rustormy-v0.5.2-Linux.tar.gz](https://github.com/Tairesh/rustormy/releases/download/v0.5.2/rustormy-v0.5.2-Linux.tar.gz) | 3.7 MiB | `native/unknown` |
-| [rustormy-v0.5.2-macOS.tar.gz](https://github.com/Tairesh/rustormy/releases/download/v0.5.2/rustormy-v0.5.2-macOS.tar.gz) | 3.4 MiB | `native/darwin/x64` |
-| [rustormy-v0.5.2-Windows.zip](https://github.com/Tairesh/rustormy/releases/download/v0.5.2/rustormy-v0.5.2-Windows.zip) | 2.8 MiB | `native/win/x64` |
+| [rustormy-v0.5.3-Linux.tar.gz](https://github.com/Tairesh/rustormy/releases/download/v0.5.3/rustormy-v0.5.3-Linux.tar.gz) | 3.6 MiB | `native/unknown` |
+| [rustormy-v0.5.3-macOS.tar.gz](https://github.com/Tairesh/rustormy/releases/download/v0.5.3/rustormy-v0.5.3-macOS.tar.gz) | 3.4 MiB | `native/darwin/x64` |
+| [rustormy-v0.5.3-Windows.zip](https://github.com/Tairesh/rustormy/releases/download/v0.5.3/rustormy-v0.5.3-Windows.zip) | 2.8 MiB | `native/win/x64` |
 
 ## Distribution status
 
@@ -78,4 +78,4 @@ Install metadata for rustormy lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261025.yml` · 2026-10-25T05:26:25Z._
+_Snapshot: `data/card/261026.yml` · 2026-10-26T05:34:58Z._

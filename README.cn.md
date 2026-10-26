@@ -14,14 +14,14 @@ x install rustormy
 
 ## 代码洞察
 
-合计: **10,341** 行代码（覆盖前 5 种语言、共 **42** 个文件）。
+合计: **10,641** 行代码（覆盖前 5 种语言、共 **42** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Rust | 7,154 | 104 | 702 | 34 |
+| Rust | 7,454 | 107 | 728 | 34 |
 | Json | 3,161 | 0 | 0 | 5 |
 | Toml | 26 | 0 | 2 | 1 |
-| Markdown | 0 | 453 | 205 | 2 |
+| Markdown | 0 | 465 | 213 | 2 |
 
 ## 源代码
 
@@ -30,36 +30,36 @@ x install rustormy
 
 ## 发布
 
-- **最新版本**: `v0.5.2` (2026-06-19)
-- **最近提交**: 2026-10-22
+- **最新版本**: `v0.5.3` (2026-10-25)
+- **最近提交**: 2026-10-25
 - **Release 含资产**: 3 个
 
 ## 流行度
 
-- **Star**: 91 · **Fork**: 4 · **开放 issue**: 6 · **贡献者**: 4
+- **Star**: 91 · **Fork**: 4 · **开放 issue**: 7 · **贡献者**: 5
 
 ## 累计统计
 
-- **发布数**: 22 · **已合并 PR**: 47 · **开放 PR**: 0 · **已关闭 issue**: 5 · **开放 issue**: 1 · **提交数**: 194
+- **发布数**: 23 · **已合并 PR**: 47 · **开放 PR**: 0 · **已关闭 issue**: 5 · **开放 issue**: 2 · **提交数**: 201
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-25 | 0 | 5 | 0 | 0 | 0 | 3 |
-| last60d | 2026-08-26 | 0 | 9 | 0 | 0 | 0 | 9 |
-| 90d | 2026-07-27 | 0 | 14 | 0 | 0 | 0 | 13 |
-| last180d | 2026-04-28 | 3 | 29 | 0 | 1 | 1 | 42 |
-| 360d | 2025-10-30 | 6 | 42 | 0 | 3 | 1 | 85 |
-| last720d | 2024-11-04 | 22 | 47 | 0 | 5 | 1 | 194 |
+| 30d | 2026-09-26 | 1 | 5 | 0 | 0 | 1 | 10 |
+| last60d | 2026-08-27 | 1 | 9 | 0 | 0 | 1 | 16 |
+| 90d | 2026-07-28 | 1 | 14 | 0 | 0 | 1 | 20 |
+| last180d | 2026-04-29 | 4 | 29 | 0 | 1 | 2 | 49 |
+| 360d | 2025-10-31 | 7 | 42 | 0 | 3 | 2 | 92 |
+| last720d | 2024-11-05 | 23 | 47 | 0 | 5 | 2 | 201 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [rustormy-v0.5.2-Linux.tar.gz](https://github.com/Tairesh/rustormy/releases/download/v0.5.2/rustormy-v0.5.2-Linux.tar.gz) | 3.7 MiB | `native/unknown` |
-| [rustormy-v0.5.2-macOS.tar.gz](https://github.com/Tairesh/rustormy/releases/download/v0.5.2/rustormy-v0.5.2-macOS.tar.gz) | 3.4 MiB | `native/darwin/x64` |
-| [rustormy-v0.5.2-Windows.zip](https://github.com/Tairesh/rustormy/releases/download/v0.5.2/rustormy-v0.5.2-Windows.zip) | 2.8 MiB | `native/win/x64` |
+| [rustormy-v0.5.3-Linux.tar.gz](https://github.com/Tairesh/rustormy/releases/download/v0.5.3/rustormy-v0.5.3-Linux.tar.gz) | 3.6 MiB | `native/unknown` |
+| [rustormy-v0.5.3-macOS.tar.gz](https://github.com/Tairesh/rustormy/releases/download/v0.5.3/rustormy-v0.5.3-macOS.tar.gz) | 3.4 MiB | `native/darwin/x64` |
+| [rustormy-v0.5.3-Windows.zip](https://github.com/Tairesh/rustormy/releases/download/v0.5.3/rustormy-v0.5.3-Windows.zip) | 2.8 MiB | `native/win/x64` |
 
 ## 发行版状态
 
@@ -78,4 +78,4 @@ rustormy 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install)
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261025.yml` · 2026-10-25T05:26:25Z._
+_数据快照: `data/card/261026.yml` · 2026-10-26T05:34:59Z._

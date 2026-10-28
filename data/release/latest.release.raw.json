@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 3818550,
       "digest": "sha256:5b09de5992036da4f044f87b78587af160e7dd709e8c94437dcd304c5b29dc34",
-      "download_count": 4,
+      "download_count": 5,
       "created_at": "2026-10-25T18:38:21Z",
       "updated_at": "2026-10-25T18:38:22Z",
       "browser_download_url": "https://github.com/Tairesh/rustormy/releases/download/v0.5.3/rustormy-v0.5.3-Linux.tar.gz"

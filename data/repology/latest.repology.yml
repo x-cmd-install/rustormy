@@ -1,3 +1,15 @@
+- repo: nix_unstable
+  srcname: rustormy
+  visiblename: rustormy
+  version: 0.5.3
+  origversion: null
+  status: newest
+  summary: Minimal neofetch-like weather CLI
+  maintainers:
+    - 501jag3@gmail.com
+    - ethan@ethancedwards.com
+  licenses:
+    - MIT
 - repo: aur
   srcname: rustormy-bin
   binname: rustormy-bin
@@ -15,21 +27,9 @@
   visiblename: rustormy
   version: 0.5.2
   origversion: null
-  status: newest
+  status: outdated
   summary: Minimal neofetch-like weather CLI
   maintainers:
     - 501jag3@gmail.com
-  licenses:
-    - MIT
-- repo: nix_unstable
-  srcname: rustormy
-  visiblename: rustormy
-  version: 0.5.2
-  origversion: null
-  status: newest
-  summary: Minimal neofetch-like weather CLI
-  maintainers:
-    - 501jag3@gmail.com
-    - ethan@ethancedwards.com
   licenses:
     - MIT

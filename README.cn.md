@@ -31,7 +31,7 @@ x install rustormy
 ## 发布
 
 - **最新版本**: `v0.5.3` (2026-10-25)
-- **最近提交**: 2026-11-21
+- **最近提交**: 2026-11-26
 - **Release 含资产**: 3 个
 
 ## 流行度
@@ -40,18 +40,18 @@ x install rustormy
 
 ## 累计统计
 
-- **发布数**: 23 · **已合并 PR**: 48 · **开放 PR**: 2 · **已关闭 issue**: 5 · **开放 issue**: 2 · **提交数**: 204
+- **发布数**: 23 · **已合并 PR**: 50 · **开放 PR**: 0 · **已关闭 issue**: 5 · **开放 issue**: 2 · **提交数**: 208
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-27 | 0 | 1 | 2 | 0 | 0 | 2 |
-| last60d | 2026-09-27 | 1 | 6 | 2 | 0 | 1 | 12 |
-| 90d | 2026-08-28 | 1 | 10 | 2 | 0 | 1 | 18 |
-| last180d | 2026-05-30 | 3 | 24 | 2 | 1 | 1 | 35 |
-| 360d | 2025-12-01 | 7 | 42 | 2 | 3 | 2 | 93 |
-| last720d | 2024-12-06 | 23 | 48 | 2 | 5 | 2 | 204 |
+| 30d | 2026-10-28 | 0 | 3 | 0 | 0 | 0 | 4 |
+| last60d | 2026-09-28 | 1 | 6 | 0 | 0 | 1 | 14 |
+| 90d | 2026-08-29 | 1 | 12 | 0 | 0 | 1 | 20 |
+| last180d | 2026-05-31 | 3 | 26 | 0 | 1 | 1 | 37 |
+| 360d | 2025-12-02 | 7 | 44 | 0 | 3 | 2 | 95 |
+| last720d | 2024-12-07 | 23 | 50 | 0 | 5 | 2 | 208 |
 
 ## Release 资产
 
@@ -60,6 +60,14 @@ x install rustormy
 | [rustormy-v0.5.3-Linux.tar.gz](https://github.com/Tairesh/rustormy/releases/download/v0.5.3/rustormy-v0.5.3-Linux.tar.gz) | 3.6 MiB | `native/unknown` |
 | [rustormy-v0.5.3-macOS.tar.gz](https://github.com/Tairesh/rustormy/releases/download/v0.5.3/rustormy-v0.5.3-macOS.tar.gz) | 3.4 MiB | `native/darwin/x64` |
 | [rustormy-v0.5.3-Windows.zip](https://github.com/Tairesh/rustormy/releases/download/v0.5.3/rustormy-v0.5.3-Windows.zip) | 2.8 MiB | `native/win/x64` |
+
+## 发行版状态
+
+在 [repology.org](https://repology.org/project/rustormy) 上共有 **3** 个发行版报告此项目。**1** 个 ✅ 已是最新上游版本，**2** 个 ⚠️ 使用旧版本。
+
+| 发行版 | 版本 | 状态 |
+|--------|------|------|
+| Nix unstable | `0.5.3` | ✅ latest |
 
 ## 改进这些数据
 
@@ -70,4 +78,4 @@ rustormy 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install)
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261126.yml` · 2026-11-26T08:53:44Z._
+_数据快照: `data/card/261127.yml` · 2026-11-27T09:02:16Z._

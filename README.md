@@ -36,7 +36,7 @@ Total: **10,641** lines of code across **42** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 92 · **Forks**: 4 · **Open issues**: 7 · **Contributors**: 5
+- **Stars**: 93 · **Forks**: 4 · **Open issues**: 7 · **Contributors**: 5
 
 ## Totals (cumulative)
 
@@ -46,12 +46,12 @@ Total: **10,641** lines of code across **42** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-28 | 0 | 3 | 0 | 0 | 0 | 4 |
-| last60d | 2026-09-28 | 1 | 6 | 0 | 0 | 1 | 14 |
-| 90d | 2026-08-29 | 1 | 12 | 0 | 0 | 1 | 20 |
-| last180d | 2026-05-31 | 3 | 26 | 0 | 1 | 1 | 37 |
-| 360d | 2025-12-02 | 7 | 44 | 0 | 3 | 2 | 95 |
-| last720d | 2024-12-07 | 23 | 50 | 0 | 5 | 2 | 208 |
+| 30d | 2026-10-29 | 0 | 3 | 0 | 0 | 0 | 4 |
+| last60d | 2026-09-29 | 1 | 6 | 0 | 0 | 1 | 14 |
+| 90d | 2026-08-30 | 1 | 12 | 0 | 0 | 1 | 20 |
+| last180d | 2026-06-01 | 3 | 26 | 0 | 1 | 1 | 37 |
+| 360d | 2025-12-03 | 7 | 44 | 0 | 3 | 2 | 95 |
+| last720d | 2024-12-08 | 23 | 50 | 0 | 5 | 2 | 208 |
 
 ## Release assets
 
@@ -60,14 +60,6 @@ Total: **10,641** lines of code across **42** files in the top 5 languages.
 | [rustormy-v0.5.3-Linux.tar.gz](https://github.com/Tairesh/rustormy/releases/download/v0.5.3/rustormy-v0.5.3-Linux.tar.gz) | 3.6 MiB | `native/unknown` |
 | [rustormy-v0.5.3-macOS.tar.gz](https://github.com/Tairesh/rustormy/releases/download/v0.5.3/rustormy-v0.5.3-macOS.tar.gz) | 3.4 MiB | `native/darwin/x64` |
 | [rustormy-v0.5.3-Windows.zip](https://github.com/Tairesh/rustormy/releases/download/v0.5.3/rustormy-v0.5.3-Windows.zip) | 2.8 MiB | `native/win/x64` |
-
-## Distribution status
-
-Reported by **3** distros on [repology.org](https://repology.org/project/rustormy). **1** are ✅ on the latest upstream release, **2** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Nix unstable | `0.5.3` | ✅ latest |
 
 ## Improve this data
 
@@ -78,4 +70,4 @@ Install metadata for rustormy lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261127.yml` · 2026-11-27T09:02:15Z._
+_Snapshot: `data/card/261128.yml` · 2026-11-28T09:18:01Z._
